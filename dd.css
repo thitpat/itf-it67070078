@@ -1,0 +1,19 @@
+body {
+    background-color: darkseagreen;
+    display: flex;
+    flex-direction: column;
+
+}
+.descr {
+    color: crimson;
+}
+.dd {
+    color: darkgoldenrod;
+}
+.p {
+    width: 100px;
+    margin: 100px; ;
+    padding: 100px;
+    border: 1px solid black;
+    height: 100px;
+}
